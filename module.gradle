@@ -4,6 +4,6 @@ ext {
     moduleName = "Il2CppDumper"
     moduleAuthor = "Mr Kenz"
     moduleDescription = "Il2CppDumper"
-    moduleVersion = "v1.2.0"
+    moduleVersion = "v1.0"
     moduleVersionCode = 1
 }
