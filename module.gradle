@@ -2,8 +2,8 @@ ext {
     moduleLibraryName = "il2cppdumper"
     magiskModuleId = "zygisk_il2cppdumper"
     moduleName = "Il2CppDumper"
-    moduleAuthor = "Perfare"
-    moduleDescription = "Il2CppDumper Zygisk version."
+    moduleAuthor = "Mr Kenz"
+    moduleDescription = "Il2CppDumper Mobile Legends"
     moduleVersion = "v1.2.0"
     moduleVersionCode = 1
 }
