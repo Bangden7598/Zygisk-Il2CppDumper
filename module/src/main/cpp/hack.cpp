@@ -31,7 +31,7 @@ void hack_start(const char *game_data_dir) {
         }
     }
     if (!load) {
-        LOGI("libcsharp.so not found in thread %d", gettid());
+        LOGI("libil2cpp.so not found in thread %d", gettid());
     }
 }
 
